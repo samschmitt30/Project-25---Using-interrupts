@@ -11,7 +11,7 @@ void setup()
 void displayMicros()
 {
   //Serial.write("micros() = ");
-  Serial.println("micros() = :(");
+  Serial.println("micros() = :)");
 }
 
 void displayMillis()
